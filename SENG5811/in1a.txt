@@ -1,0 +1,19 @@
+ firstcourse       i534344355434554334
+ secondcourse      j545355344455335535
+ thirdcourse       k453535344434443443
+1
+ i       vontez donaby        478484444444444444
+ j       vontez donaby        888333333333333333
+ i       richmond uong        334833333333333333
+ j       richmond uong        344444444444444444
+ i       zunil zutt           454545488383333333
+ j       zunil zutt           833372722222222222
+ i       sunil dutt           454545488383333333
+ j       sunil dutt           833372722222222222
+ i       panda bear           454545488383333333
+ j       panda bear           833372722222222222
+ i       joshua saville       333848448444444444
+ j       joshua saville       483838383333333333
+ k       joshua saville       744433333333333333
+ k       vontez donaby        478484444444444444
+2
